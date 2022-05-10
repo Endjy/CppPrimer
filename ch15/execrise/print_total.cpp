@@ -1,5 +1,5 @@
-#include "Quote.h"
-#include "Bulk_quote.h"
+#include "quote.h"
+#include "bulk_quote.h"
 
 
 #include <iostream>

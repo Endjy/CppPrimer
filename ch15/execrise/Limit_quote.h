@@ -1,7 +1,7 @@
 #ifndef LIMIT_QUOTE_H
 #define LIMIT_QUOTE_H
 
-#include "Quote.h"
+#include "quote.h"
 
 class Limit_quote : public Quote{
 public:

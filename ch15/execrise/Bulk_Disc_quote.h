@@ -1,7 +1,7 @@
 #ifndef BULK_DISC_QUOTE_H
 #define BULK_DISC_QUOTE_H
 
-#include "Disc_quote.h"
+#include "disc_quote.h"
 
 class Bulk_quote: public Disc_quote{
 public:
